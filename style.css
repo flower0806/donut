@@ -1,0 +1,52 @@
+h1 {
+	color: #ff005e;
+}
+
+div {
+	border: solid 10px #6f00ff;
+	background-color: #eb9cff;
+	padding-left: 20px;
+}
+
+ol {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+h3 {
+	color: #d874fc;
+	font-style: italic;
+}
+
+h2 {
+	color: #0048d9;
+
+}
+
+li {
+	color:#00d93d;
+}
+
+img{
+	border: #73eafa 6px solid;
+	border-radius: 59px;
+}
+
+.lkj{
+	color: #eaff03;
+}
+
+.oiu {
+	color: #ff337e;
+}
+
+span{
+	font-style: normal;
+}
+
+
+
